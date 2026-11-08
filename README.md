@@ -10,3 +10,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | File | SHA-1 | Notes |
 |---|---|---|
 | `gearathon-rp-e2ef22208f.zip` | `e2ef22208f63a90bacbc7ece02ea5dd9a12dbed1` | 2026-11-08: mesa sand streaks on the real ground only, much scarcer; adds `textures/effect/height.png` |
+| `gearathon-rp-98a19d97e4.zip` | `98a19d97e4a3672278d740aa8a4812c2933de4d1` | 2026-11-08: mesa sand: always-on sparse lines; heat shimmer toned down |
