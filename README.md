@@ -20,3 +20,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | `gearathon-rp-05b78beb96.zip` | `05b78beb9619ed8e767448f67f706a7c3c8e68c7` | 2026-11-08: foliage in our own style: leaf fringes and tufts (purple pale oak), dead bush bones, sand pebbles |
 | `gearathon-rp-98d57ac380.zip` | `98d57ac3808554000f6717a4369a7d8bc3fe3ae4` | 2026-11-08: pixel clouds, Bare Skies style sky, our sun and moon, low border fog |
 | `gearathon-rp-28a0da767f.zip` | `28a0da767f5514f675215fd4af322962449094cc` | 2026-11-08: higher clouds, darker nights, moon fix |
+| `gearathon-rp-5bff49fb8c.zip` | `5bff49fb8cf53071703379d71a30c1755a2f2ef4` | 2026-11-08: foliage batch 2, softer clouds |
