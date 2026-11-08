@@ -16,3 +16,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | `gearathon-rp-9edf837eff.zip` | `9edf837eff6ff0eb4832f6afd0795a0a8889b762` | 2026-11-08: blight ground fog: recalibrated to be visible (~30% flat, ~50% hollows, lighter tint) |
 | `gearathon-rp-09886eb6ad.zip` | `09886eb6ad06dfea1dae9aafcd3a299f3415d9de` | 2026-11-08: blight ground fog: haze-coloured murk (no spotlight look), soft edges at steps, thinner layer |
 | `gearathon-rp-4fa7788389.zip` | `4fa77883890fff134de04c2edcb957f3a2cb25a7` | 2026-11-08: TEST: blight ground fog pixels 1/4 block (revert to 09886eb6ad if it looks bad) |
+| `gearathon-rp-78fb6c585b.zip` | `78fb6c585bcd26745e84e0f90325863d7e162c8a` | 2026-11-08: tumbleweed redo (1.5-block twig ball + invisible carrier), probe check tolerances, chunkier blight fog pixels kept |
