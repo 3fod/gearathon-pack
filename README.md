@@ -24,3 +24,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | `gearathon-rp-b4e832cd9e.zip` | `b4e832cd9e33a01ad22e713f6dc65b6af108fa49` | 2026-11-08: plains bugs: ladybugs, beetles, moths, gnats |
 | `gearathon-rp-5dc8696359.zip` | `5dc869635957287d4d57ae549239fae9c77b8c3c` | 2026-11-08: Goose's Foliage (MIT), steady fog tint, continuous night fade |
 | `gearathon-rp-43ea73895f.zip` | `43ea73895f338dec4452667f50c05ce63a61a73e` | 2026-11-08: without Goose's lily pads, cacti and dead bush plants |
+| `gearathon-rp-60d026151f.zip` | `60d026151fe218ad44bd348f3fd871a4c0899ef9` | 2026-11-08: chunkier 1.5-block tumbleweed |
