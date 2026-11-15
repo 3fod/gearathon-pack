@@ -25,3 +25,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | `gearathon-rp-5dc8696359.zip` | `5dc869635957287d4d57ae549239fae9c77b8c3c` | 2026-11-08: Goose's Foliage (MIT), steady fog tint, continuous night fade |
 | `gearathon-rp-43ea73895f.zip` | `43ea73895f338dec4452667f50c05ce63a61a73e` | 2026-11-08: without Goose's lily pads, cacti and dead bush plants |
 | `gearathon-rp-60d026151f.zip` | `60d026151fe218ad44bd348f3fd871a4c0899ef9` | 2026-11-08: chunkier 1.5-block tumbleweed |
+| `gearathon-rp-abed12dfdd.zip` | `abed12dfdd3cc074bccb52c6db198c41792e22c7` | 2026-11-15: caves rework: new mesa/frost plant art, cave-aware post effect |
