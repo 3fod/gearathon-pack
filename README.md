@@ -26,3 +26,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | `gearathon-rp-43ea73895f.zip` | `43ea73895f338dec4452667f50c05ce63a61a73e` | 2026-11-08: without Goose's lily pads, cacti and dead bush plants |
 | `gearathon-rp-60d026151f.zip` | `60d026151fe218ad44bd348f3fd871a4c0899ef9` | 2026-11-08: chunkier 1.5-block tumbleweed |
 | `gearathon-rp-abed12dfdd.zip` | `abed12dfdd3cc074bccb52c6db198c41792e22c7` | 2026-11-15: caves rework: new mesa/frost plant art, cave-aware post effect |
+| `gearathon-rp-60bbdcb0b4.zip` | `60bbdcb0b4ecff1aec32f58cdeac92e909a8bc10` | 2026-11-18: terrain v11, v11 caves (forest grotto, fossil canyons, overgrown mines, blight blend), cave-aware effects |
