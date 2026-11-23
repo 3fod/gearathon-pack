@@ -42,3 +42,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | `gearathon-rp-7c22248043.zip` | `7c2224804323a5e684597848dfa7e7db286a1d55` | 2026-11-23: terrain v19, Effects back to the game's list, restyled; steadier place titles |
 | `gearathon-rp-4fbf7989bd.zip` | `4fbf7989bd4939f164c3b9d097349d557b76851b` | 2026-11-23: terrain v19, Weapon slots: hotbar 1-2 crimson |
 | `gearathon-rp-550c0edbd5.zip` | `550c0edbd5480006cef2d239ecc61cdbf112a61f` | 2026-11-23: terrain v19, Forging @forge test: furnace, bellows pump frames, striker, tongs (gearathon:forge/*) |
+| `gearathon-rp-f1342b59ac.zip` | `f1342b59ac02f44ffbf745ce16161d46d3e108cc` | 2026-11-23: terrain v19, Forge vanilla pass: furnace + bellows restyled, striker turned in hand, tongs z-fighting fixed |
