@@ -36,3 +36,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | `gearathon-rp-f0bfc32cf7.zip` | `f0bfc32cf7ce74c53ec89facb5043978a2679e31` | 2026-11-23: terrain v19, Minimap top right; effects moved left of it |
 | `gearathon-rp-7b8df29530.zip` | `7b8df2953092b7b82022624d4b3d24758182eca5` | 2026-11-23: terrain v19, Fix: HUD font broke (5 px dots shorter than their ascent) |
 | `gearathon-rp-8e2fd0bf94.zip` | `8e2fd0bf9494df6e1161f238ee5d31f62d0b679f` | 2026-11-23: terrain v19, Minimap: 4 chunks, 72 px, smooth, no gaps |
+| `gearathon-rp-c7acd62381.zip` | `c7acd62381f082dae2e78b9c1f787d2a80db1fc5` | 2026-11-23: terrain v19, Minimap: no seams between tiles |
