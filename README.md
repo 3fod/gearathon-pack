@@ -40,3 +40,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | `gearathon-rp-1ccf44c6a7.zip` | `1ccf44c6a7754bf47b2457476d79a119c3afee87` | 2026-11-23: terrain v19, Effects in the inventory: cards with a bar and the time left |
 | `gearathon-rp-2cfa812d0b.zip` | `2cfa812d0bf02640cc15d4c3962ce36329cc0cde` | 2026-11-23: terrain v19, Effects list across the top; underground minimap |
 | `gearathon-rp-7c22248043.zip` | `7c2224804323a5e684597848dfa7e7db286a1d55` | 2026-11-23: terrain v19, Effects back to the game's list, restyled; steadier place titles |
+| `gearathon-rp-4fbf7989bd.zip` | `4fbf7989bd4939f164c3b9d097349d557b76851b` | 2026-11-23: terrain v19, Weapon slots: hotbar 1-2 crimson |
