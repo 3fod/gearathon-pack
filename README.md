@@ -38,3 +38,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | `gearathon-rp-8e2fd0bf94.zip` | `8e2fd0bf9494df6e1161f238ee5d31f62d0b679f` | 2026-11-23: terrain v19, Minimap: 4 chunks, 72 px, smooth, no gaps |
 | `gearathon-rp-c7acd62381.zip` | `c7acd62381f082dae2e78b9c1f787d2a80db1fc5` | 2026-11-23: terrain v19, Minimap: no seams between tiles |
 | `gearathon-rp-1ccf44c6a7.zip` | `1ccf44c6a7754bf47b2457476d79a119c3afee87` | 2026-11-23: terrain v19, Effects in the inventory: cards with a bar and the time left |
+| `gearathon-rp-2cfa812d0b.zip` | `2cfa812d0bf02640cc15d4c3962ce36329cc0cde` | 2026-11-23: terrain v19, Effects list across the top; underground minimap |
