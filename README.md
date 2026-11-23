@@ -32,3 +32,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | `gearathon-rp-d87bbfd597.zip` | `d87bbfd5975bea865d57f28b49ff8bab0ad97f35` | 2026-11-23: terrain v19, Round 6: no dialogs, custom clicks, spinning picture, model opens loadout |
 | `gearathon-rp-8d79c45d57.zip` | `8d79c45d57119524b857afa22a980bbfadd7636f` | 2026-11-23: terrain v19, Round 7: hints fit, slower spin, rarity tooltips, details colours |
 | `gearathon-rp-2e909a6026.zip` | `2e909a6026906c07033918b42bcca631feef25d4` | 2026-11-23: terrain v19, Fix: text near the bottom stretched into long lines |
+| `gearathon-rp-1ef674f289.zip` | `1ef674f289ca553610eef4960cdcdef8bf553ab4` | 2026-11-23: terrain v19, Fix: chat error box stretched into a line |
