@@ -44,3 +44,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | `gearathon-rp-550c0edbd5.zip` | `550c0edbd5480006cef2d239ecc61cdbf112a61f` | 2026-11-23: terrain v19, Forging @forge test: furnace, bellows pump frames, striker, tongs (gearathon:forge/*) |
 | `gearathon-rp-f1342b59ac.zip` | `f1342b59ac02f44ffbf745ce16161d46d3e108cc` | 2026-11-23: terrain v19, Forge vanilla pass: furnace + bellows restyled, striker turned in hand, tongs z-fighting fixed |
 | `gearathon-rp-050c773018.zip` | `050c773018b8e5cff93750d1fc2e89d19eaf6189` | 2026-11-23: terrain v19, Forge lighting: furnace states (empty/loaded/smoulder/lit), tongs reach/open frames |
+| `gearathon-rp-068bde5338.zip` | `068bde53381cbab2f3d3131c9d587ef1197a80dd` | 2026-11-23: terrain v19, Forge lighting polish: custom sounds, tool frames without bob, fire flicker |
