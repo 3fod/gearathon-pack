@@ -28,3 +28,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | `gearathon-rp-abed12dfdd.zip` | `abed12dfdd3cc074bccb52c6db198c41792e22c7` | 2026-11-15: caves rework: new mesa/frost plant art, cave-aware post effect |
 | `gearathon-rp-60bbdcb0b4.zip` | `60bbdcb0b4ecff1aec32f58cdeac92e909a8bc10` | 2026-11-18: terrain v11, v11 caves (forest grotto, fossil canyons, overgrown mines, blight blend), cave-aware effects |
 | `gearathon-rp-e3d57d2e96.zip` | `e3d57d2e9624aab9ebd2981ca286f3cfafd817fa` | 2026-11-23: terrain v19, HUD round 4: held-name fade fix, backpack slot under the hotbar, stripped inventory screen |
+| `gearathon-rp-f1baf78da9.zip` | `f1baf78da906fb00191b16e0f048ef9d38e4d182` | 2026-11-23: terrain v19, Round 5: inventory tray, icons, model moved; loadout; rarity; pickup flight |
