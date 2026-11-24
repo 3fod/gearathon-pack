@@ -49,3 +49,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | `gearathon-rp-89bd1add75.zip` | `89bd1add756c2d0740ef9477f1a437d82fed7894` | 2026-11-24: terrain v19, Forge working body round 2 + backpack round 8 + minimap custom block colours |
 | `gearathon-rp-40fb206829.zip` | `40fb206829233053eb012640daeb53983e55ef8e` | 2026-11-24: terrain v19, Forge fuel gauge: gauge font, text shader distance fade |
 | `gearathon-rp-60a9301a4a.zip` | `60a9301a4a9c43a2f8432e586853264d2f2407d0` | 2026-11-24: terrain v19, Forge round 3: gauge font fix (ascent <= height), forearms |
+| `gearathon-rp-bb8b7d3204.zip` | `bb8b7d32047473f3339066d94a61ad12571f4ff7` | 2026-11-24: terrain v19, Forge round 4: HUD fuel panel and top fuel bar, gauge orbit |
