@@ -46,3 +46,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | `gearathon-rp-050c773018.zip` | `050c773018b8e5cff93750d1fc2e89d19eaf6189` | 2026-11-23: terrain v19, Forge lighting: furnace states (empty/loaded/smoulder/lit), tongs reach/open frames |
 | `gearathon-rp-068bde5338.zip` | `068bde53381cbab2f3d3131c9d587ef1197a80dd` | 2026-11-23: terrain v19, Forge lighting polish: custom sounds, tool frames without bob, fire flicker |
 | `gearathon-rp-5c7a228b34.zip` | `5c7a228b34b024262b444c8d2f3b7e5df577ff66` | 2026-11-24: terrain v19, forge working body: skin shader |
+| `gearathon-rp-89bd1add75.zip` | `89bd1add756c2d0740ef9477f1a437d82fed7894` | 2026-11-24: terrain v19, Forge working body round 2 + backpack round 8 + minimap custom block colours |
