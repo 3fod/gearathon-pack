@@ -58,3 +58,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | `gearathon-rp-a92f1df9c3.zip` | `a92f1df9c35a0d222c392a58663cf74c600440d3` | 2026-11-25: terrain v19, Viewmodel stage 2: sword in the model, 3-hit Epic Fight style combo |
 | `gearathon-rp-04bb53ef1a.zip` | `04bb53ef1ad1e243f789188cf4bd03ecd5cbad7b` | 2026-11-25: terrain v19, Viewmodel stage 2b: ready stance, higher lunging swings |
 | `gearathon-rp-9cfc4a463d.zip` | `9cfc4a463dc632d27aa8f50fb27dd0231ea5d3f0` | 2026-11-25: terrain v19, Viewmodel stage 2c: bigger overhead, centred chop, backhand on screen |
+| `gearathon-rp-b9b2d45528.zip` | `b9b2d45528ddb9daead9a19cfa700b3ef8570f3f` | 2026-11-25: terrain v19, Viewmodel stage 2d: overhead top eased back |
