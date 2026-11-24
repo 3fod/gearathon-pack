@@ -51,3 +51,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | `gearathon-rp-60a9301a4a.zip` | `60a9301a4a9c43a2f8432e586853264d2f2407d0` | 2026-11-24: terrain v19, Forge round 3: gauge font fix (ascent <= height), forearms |
 | `gearathon-rp-bb8b7d3204.zip` | `bb8b7d32047473f3339066d94a61ad12571f4ff7` | 2026-11-24: terrain v19, Forge round 4: HUD fuel panel and top fuel bar, gauge orbit |
 | `gearathon-rp-a675a77118.zip` | `a675a77118cb2299b309ff756fd21894fcb7b1d0` | 2026-11-24: terrain v19, Forge round 5: body lit by sky only, gauge fade 6-7 blocks |
+| `gearathon-rp-27e5379caf.zip` | `27e5379cafd44c6b1c6a2668382e3499497b50aa` | 2026-11-25: terrain v19, Viewmodel stage 1: gearathon:vm_sword (skin arms rebuilt by entity.vsh) + Test 1 clock bands |
