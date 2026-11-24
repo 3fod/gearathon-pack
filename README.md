@@ -55,3 +55,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | `gearathon-rp-d113d831b0.zip` | `d113d831b0c5bb7788a4b52c65fdc2c0de869fd8` | 2026-11-25: terrain v19, Viewmodel stage 1b: arms at vanilla's first-person arm pose |
 | `gearathon-rp-8f0fb7b04f.zip` | `8f0fb7b04f011136f61c5c303ef30f8ff0e61bb2` | 2026-11-25: terrain v19, Viewmodel stage 1b: vanilla first-person arm pose; viewmodel keeps off the probe strip |
 | `gearathon-rp-db4e379cce.zip` | `db4e379cce6d1ecdda89c4c81000a9610e8e6344` | 2026-11-25: terrain v19, Viewmodel round 1c (probe investigation) |
+| `gearathon-rp-a92f1df9c3.zip` | `a92f1df9c35a0d222c392a58663cf74c600440d3` | 2026-11-25: terrain v19, Viewmodel stage 2: sword in the model, 3-hit Epic Fight style combo |
