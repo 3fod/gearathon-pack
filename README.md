@@ -54,3 +54,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | `gearathon-rp-27e5379caf.zip` | `27e5379cafd44c6b1c6a2668382e3499497b50aa` | 2026-11-25: terrain v19, Viewmodel stage 1: gearathon:vm_sword (skin arms rebuilt by entity.vsh) + Test 1 clock bands |
 | `gearathon-rp-d113d831b0.zip` | `d113d831b0c5bb7788a4b52c65fdc2c0de869fd8` | 2026-11-25: terrain v19, Viewmodel stage 1b: arms at vanilla's first-person arm pose |
 | `gearathon-rp-8f0fb7b04f.zip` | `8f0fb7b04f011136f61c5c303ef30f8ff0e61bb2` | 2026-11-25: terrain v19, Viewmodel stage 1b: vanilla first-person arm pose; viewmodel keeps off the probe strip |
+| `gearathon-rp-db4e379cce.zip` | `db4e379cce6d1ecdda89c4c81000a9610e8e6344` | 2026-11-25: terrain v19, Viewmodel round 1c (probe investigation) |
