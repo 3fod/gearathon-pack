@@ -62,3 +62,4 @@ hand: rebuild, add the new zip, and point the plot at it (see `updates/wildernes
 | `gearathon-rp-7a18eced21.zip` | `7a18eced2116e31a1d1faca80e86deba7bf6b2da` | 2026-11-25: terrain v19, Combat body (stage 3) sword model; viewmodel without vanilla swing |
 | `gearathon-rp-3e13b2cb1f.zip` | `3e13b2cb1f6cfeb45d84a6b3ce0be568e4a445ca` | 2026-11-25: terrain v19, Combat animation round 2: cleaner first-person combo with a wrist track |
 | `gearathon-rp-e9a80c28ee.zip` | `e9a80c28eef091740995c4f344140ec06573ece7` | 2026-11-25: terrain v19, Combat body follows you (stage 3); viewmodel item empty in third person; first-person round 2 tuning |
+| `gearathon-rp-c7bccfd99f.zip` | `c7bccfd99f013c1e822628b1b2f791da45234aa4` | 2026-11-25: terrain v19, The plot's world origin found by the shaders (probe tint + strip cells, minimap fine bits) |
